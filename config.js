@@ -13,24 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["56928561853", 'MichiBot', true], //MichiBot🐈
-["56955274723"], 
-["56928561853"], 
-["56941827124"],
-['56941827124'],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"],
-["56941827124"]]
+["51927238856", 'Owner', true], //MichiBot🐈
+["51965911060"]]
 
 global.mods = []
 global.prems = []
